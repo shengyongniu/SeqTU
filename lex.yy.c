@@ -1253,7 +1253,7 @@ case 56:
 YY_RULE_SETUP
 #line 206 "d.l"
 {token('--');
-                 return(DEC_OP)
+                 return(DEC_OP);
                 }
 	YY_BREAK
 case 57:
